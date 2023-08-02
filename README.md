@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitakrofi
+- 👋 Hi, I’m George Gyamfi Akrofi
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning data analysis with R. Already, i have a certificate in technical support and financial analysis.
 - 💞️ I’m looking to collaborate on applying my newfound expectise in full-time and part-time remote jobs.
